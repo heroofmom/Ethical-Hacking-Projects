@@ -20,7 +20,7 @@ It covers a complete ethical hacking lifecycle: scanning, enumeration, exploitat
 
 ## 📂 Project Contents
 
-- 📄 `CEH_Project_Anuj.pdf` — Full report with screenshots and command outputs  
+- 📄 `CEH_Project_Abhi.pdf` — Full report with screenshots and command outputs  
 - 🖼️ `Screenshots/` — Real-time evidence of network attacks and defenses  
 
 ---
@@ -104,14 +104,14 @@ nmap -v -O 192.168.1.10
 
 **Command Used:**
 ```bash
-adduser anuj
+adduser abhi
 ```
 
 **Results:**
 
 In `/etc/passwd`:
 ```
-anuj:x:1001:1001:/home/anuj:/bin/bash
+anuj:x:1001:1001:/home/abhi:/bin/bash
 ```
 
 In `/etc/shadow`:
